@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atukuri_portfolio/static/css/main.ac9bf8ab.css",
+    "main.js": "/atukuri_portfolio/static/js/main.ce96fb5a.js",
+    "static/js/453.6264690d.chunk.js": "/atukuri_portfolio/static/js/453.6264690d.chunk.js",
+    "index.html": "/atukuri_portfolio/index.html",
+    "main.ac9bf8ab.css.map": "/atukuri_portfolio/static/css/main.ac9bf8ab.css.map",
+    "main.ce96fb5a.js.map": "/atukuri_portfolio/static/js/main.ce96fb5a.js.map",
+    "453.6264690d.chunk.js.map": "/atukuri_portfolio/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9bf8ab.css",
+    "static/js/main.ce96fb5a.js"
+  ]
+}

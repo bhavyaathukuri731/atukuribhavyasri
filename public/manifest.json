@@ -1,0 +1,25 @@
+{
+  "short_name": "Bhavya Sri Portfolio",
+  "name": "Atukuri Bhavya Sri - Cybersecurity Engineer Portfolio",
+  "icons": [
+    {
+      "src": "profilepic.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "profilepic.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "profilepic.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#0c0c0c"
+}
