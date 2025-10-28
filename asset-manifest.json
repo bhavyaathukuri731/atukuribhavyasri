@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atukuribhavyasri/static/css/main.ac9bf8ab.css",
+    "main.js": "/atukuribhavyasri/static/js/main.3eb57c77.js",
+    "static/js/453.6264690d.chunk.js": "/atukuribhavyasri/static/js/453.6264690d.chunk.js",
+    "index.html": "/atukuribhavyasri/index.html",
+    "main.ac9bf8ab.css.map": "/atukuribhavyasri/static/css/main.ac9bf8ab.css.map",
+    "main.3eb57c77.js.map": "/atukuribhavyasri/static/js/main.3eb57c77.js.map",
+    "453.6264690d.chunk.js.map": "/atukuribhavyasri/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9bf8ab.css",
+    "static/js/main.3eb57c77.js"
+  ]
+}
